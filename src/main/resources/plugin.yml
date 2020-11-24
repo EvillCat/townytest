@@ -1,0 +1,8 @@
+name: FlagCommand
+version: 0.1
+main: ru.minetown.command.flag.TownFlagPlugin
+api-version: 1.16
+commands:
+  flag:
+    description: Invoke gui menu
+    usage: /<command>
